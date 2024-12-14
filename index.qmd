@@ -1,10 +1,13 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "About Me"
+subtitle: "Nathan Shumway"
 # use quarto markdown to 
 ---
+<!-- ![My Wife and I](Images/myPic.JPG) -->
+<img src="Images/myPic.JPG" alt="Alt text" width="200"/>
 
-# Title 1 Header
-## Title 2 Header
+# My Interests and Background
+I am a student at BYU studying computer science. I am interested in software development and data science. I have experience with Java, Python, and C++. I have also worked with SQL and NoSQL databases. I am currently learning about machine learning and data analysis. I am excited to learn more about these topics and apply them to real-world problems. 
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I enjoy eating good food, watching funny movies, and spending time with my family. I am a member of the Church of Jesus Christ of Latter-day Saints. I served a mission in the Brimingham, Alabama mission. I am married and have a son on the way! I am excited to see what the future holds for me and my family.
+

@@ -1,89 +1,107 @@
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "Resume"
+Name: "Nathan David Shumway"
+email: "nateshumway1@gmail.com"
+phone: "480-338-6955"
+output: pdf_document
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### Nathan David Shumway
+nateshumway1@gmail.com <br>
+480-338-6955
 
+## Summary
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Driven, analytical, problem-solving student currently seeking future employment opportunities.
 
 
 
-## Awards
+## Employment History
 
-`2012`
-President, *Royal Society*, London, UK
+### Altitude Supported Living LLC
+**Direct Care Staff**  
+*August 2023 - July 2024*  
+- Provided one-on-one 24/7 care for adults and young adults with special needs requiring intense support.
+- Assisted clients in achieving established goals to improve self-care and social interactions.
+- Helped with household chores and meal preparation as needed.
 
-Associate, *French Academy of Science*, Paris, France
+### Taco Time, Rexburg AZ
+**Crew Member**  
+*January 2023 - August 2023*  
+- Assisted with taking customer orders inside the store and at the drive-through.
+- Prepared, packaged, and handed out food to customers.
+- Performed various preparation jobs mid-shift, including preparing sauces and cleaning.
+
+### United Parcel Service, Mesa AZ
+**Package Loader and Seasonal Helper**  
+*December 2022 - December 2022*  
+- Worked night shifts loading heavy boxes and packages into trucks.
+- Assisted in seasonal package delivery with a UPS driver.
+
+### Office Max, Mesa AZ
+**Sales Associate and Cashier**  
+*January 2022 - December 2022*  
+- Worked at the front end of the store, ensuring customer satisfaction and securing higher-value products.
+- Aimed to exceed daily and weekly sales goals and customer enrollment in the rewards program.
+- Engaged with customers to help them find their needs.
+
+### Brigham Young University Idaho, Rexburg ID
+**Student, Computer Science Major, Junior**  
+*September 2021 - Current*  
+- General and advanced mathematics skill set.
+- Proficiencies in computer algorithms and coding.
+- High proficiencies in Python and Java; medium proficiencies in Erlang, JavaScript, HTML, and CSS; introductory proficiencies in Clojure, SQL, and MS Excel.
+
+### Progrexion, Rexburg ID
+**Credit Consultant**  
+*August 2021 - December 2021*  
+- Made calls to individuals regarding their credit situations.
+- Assisted customers in understanding the importance of good credit and referred them to credit repair companies.
+- Collaborated in a team to set and exceed statistical goals.
+
+### The Church of Jesus Christ of Latter-day Saints, Birmingham AL
+**Full-Time Missionary**  
+*August 2019 - August 2021*  
+- Managed a group of 8 missionaries and led weekly training sessions.
+- Provided direct support to local membership leadership.
+- Trained diverse populations in genealogical research and facilitated community service projects.
+
+### Brinks Home Security, Tucson, AZ
+**Call Center Support**  
+*April 2019 - May 2019*  
+- Managed account creation and security systems.
+- Assisted salesmen with credit checks and recorded customer agreement surveys.
+- Activated security systems for technicians.
+
+### Arcadia Inc, Tucson, AZ
+**Floor Worker**  
+*October 2017 - April 2019*  
+- Created and helped ship aluminum doors and frames.
+- Programmed and operated CNC machinery.
+- Managed inventory and customer work orders.
+- Assisted in training new team members.
+
+## Accomplishments
+
+- Eagle Scout, Boy Scouts of America, 2017
+- High School Diploma, Cienega High School, Vail, AZ, 2017
+
+## Technical Skills
+
+- Strong computer, mathematics, and analytical skills.
+- Proficiency in using Google Drive resources.
+- Experience in teaching and training others.
+- Professional communication and customer skills.
+
+### Coding Experience
+
+- **High Proficiencies**: Python, Java
+- **Medium Proficiencies**: Erlang, JavaScript, HTML, CSS
+- **Introductory Proficiencies**: Clojure, SQL, MS Excel
+
+### Game Development Experience
+
+- **Medium Proficiencies**: Unity, Godot
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->

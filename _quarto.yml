@@ -36,7 +36,7 @@ website:
       - text: "Competition"
         file: competition.qmd
   
-  # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
+  # learn more about navigation here https://quarto.org/docs/websites/website-navigation.html
   # comment out any of the sections below to turn off the sidebar
 
   sidebar: 
